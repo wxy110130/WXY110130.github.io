@@ -21,3 +21,58 @@
   [data-theme="dark"] #page-header::before {
     background: transparent !important;
   }
+/*Fonts*/
+@font-face {
+    /* 为载入的字体取名字(随意) */
+    font-family: 'LKGW';	
+    /* 字体文件地址(相对或者绝对路径都可以) */
+    src: url(/fonts/LKGW.ttf);
+    /* 定义加粗样式(加粗多少) */
+    font-weight: normal;
+    /* 定义字体样式(斜体/非斜体) */
+    font-style: normal;
+    /* 定义显示样式 */
+    font-display: block;
+
+    font-family: 'BZXH';
+    src: url(/fonts/BZXH.ttf);
+    font-weight: normal; 
+    font-style: normal;
+    font-display: block;
+
+    font-family: 'JDZY';	
+    src: url(/fonts/JDZY.ttf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+
+    font-family: 'NMMM';	
+    src: url(/fonts/NMMM.ttf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+
+    font-family: 'TTQ';	
+    src: url(/fonts/TTQ.ttf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+
+    font-family: 'WDNL';	
+    src: url(/fonts/WDNL.ttf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+
+    font-family: 'WLSG';	
+    src: url(/fonts/WLSG.ttf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+
+    font-family: 'ZQC';	
+    src: url(/fonts/ZQC.ttf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }

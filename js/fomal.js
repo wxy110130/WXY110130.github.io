@@ -370,7 +370,7 @@ document.onkeydown = function (e) {
         data: function () {
           this.$notify({
             title: "你已被发现😜",
-            message: "小伙子，扒源记住要遵循GPL协议！",
+            message: "请注意，扒源请遵循 GPL 协议！",
             position: 'top-left',
             offset: 50,
             showClose: true,
@@ -3377,12 +3377,15 @@ function createWinbox() {
 <div class="note warning modern"><p>非商免字体未经授权只能个人使用。本站为完全非商业、非盈利性质的网站，平时用于个人学习交流，如有侵权请联系站长删除，谢谢！ —— 致版权方</p>
 </div>
 <p id="swfs">
-<a class="swf" id="swf_ZhuZiAWan" href="javascript:;" rel="noopener external nofollow" style="font-family:'ZhuZiAWan'!important;color:black" onclick="setFont('ZhuZiAWan')">筑紫A丸标准体2.0</a>
-<a class="swf" id="swf_HYTMR" href="javascript:;" rel="noopener external nofollow" style="font-family:'HYTMR'!important;color:black" onclick="setFont('HYTMR')">汉仪唐美人</a>
+
 <a class="swf" id="swf_LXGW" href="javascript:;" rel="noopener external nofollow" style="font-family:'LXGW'!important;color:black" onclick="setFont('LXGW')">霞鹜文楷</a>
-<a class="swf" id="swf_TTQHB" href="javascript:;" rel="noopener external nofollow" style="font-family:'TTQHB'!important;color:black" onclick="setFont('TTQHB')">甜甜圈海报</a>
-<a class="swf" id="swf_YSHST" href="javascript:;" rel="noopener external nofollow" style="font-family:'YSHST'!important;color:black" onclick="setFont('YSHST')">优设好身体</a>
-<a class="swf" id="swf_MiSans" href="javascript:;" rel="noopener external nofollow" style="font-family:'MiSans'!important;color:black" onclick="setFont('MiSans')">MiSans</a>
+<a class="swf" id="swf_BZXH" href="javascript:;" rel="noopener external nofollow" style="font-family:'BZXH'!important;color:black" onclick="setFont('BZXH')">不止喜欢</a>
+<a class="swf" id="swf_JDZY" href="javascript:;" rel="noopener external nofollow" style="font-family:'JDZY'!important;color:black" onclick="setFont('JDZY')">经典中圆</a>
+<a class="swf" id="swf_NMMM" href="javascript:;" rel="noopener external nofollow" style="font-family:'NMMM'!important;color:black" onclick="setFont('NMMM')">柠檬卖萌</a>
+<a class="swf" id="swf_TTQ" href="javascript:;" rel="noopener external nofollow" style="font-family:'TTQ'!important;color:black" onclick="setFont('TTQ')">甜甜圈</a>
+<a class="swf" id="swf_WDNL" href="javascript:;" rel="noopener external nofollow" style="font-family:'WDNL'!important;color:black" onclick="setFont('WDNL')">文道奶酪</a>
+<a class="swf" id="swf_WLSG" href="javascript:;" rel="noopener external nofollow" style="font-family:'WLSG'!important;color:black" onclick="setFont('WLSG')">微凉时光</a>
+<a class="ZQC" id="swf_LXGW" href="javascript:;" rel="noopener external nofollow" style="font-family:'ZQC'!important;color:black" onclick="setFont('ZQC')">醉倾城</a>
 <a class="swf" id="swf_default" href="javascript:;" rel="noopener external nofollow" style="font-family:-apple-system, IBM Plex Mono ,monosapce,'微软雅黑', sans-serif;!important;color:black" onclick="setFont('default')">系统默认</a>
 </p>
 
